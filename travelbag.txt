@@ -1,0 +1,6 @@
+shirt 
+pants
+shoes
+sunscreen
+goku
+pokeballs
